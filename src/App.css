@@ -92,7 +92,7 @@ hr {
   text-shadow: 0 2px 0px #000;
   font-family: "freight-sans-pro", sans-serif;
   font-weight: 700;
-  text-transform: uppercase; }
+   }
 @media only screen and (max-width: 900px) {
   .logo {
     text-align: center; } }
@@ -163,6 +163,10 @@ span.code {
   border: 1px solid rgba(95, 69, 120, 0.1);
   border-radius: 3px;
   padding: 6px; }
+
+header{
+  background-color: black;
+}
 
 .header-content {
   position: relative;
